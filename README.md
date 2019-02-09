@@ -17,7 +17,7 @@ First of all add the following dependencies to your `pubspec.yaml`:
 
 ```
 dependencies:
-  salt: ^0.0.1
+  salt: ^0.1.0
 ```
 
 Then you will find everything you need in the `Salt` class. Below is an example how to
