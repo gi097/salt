@@ -1,6 +1,5 @@
 # Salt, a crypto library for Flutter
 [![Build Status](https://travis-ci.com/gi097/salt.svg?branch=develop)](https://travis-ci.com/gi097/salt)
-[![Stars](http://starveller.sigsev.io/api/repos/gi097/salt/badge)](http://starveller.sigsev.io/gi097/salt)
 [![Coverage Status](https://coveralls.io/repos/github/gi097/salt/badge.svg?branch=develop&service=github)](https://coveralls.io/github/gi097/salt?branch=develop)
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 
