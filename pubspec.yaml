@@ -1,6 +1,6 @@
 name: salt
-description: A crypto library for Flutter.
-version: 0.1.0
+description: A simple and pure Dart crypto library for Flutter applications.
+version: 0.1.1
 author: Giovanni Terlingen <me@giovanniterlingen.com>
 homepage: https://github.com/gi097/salt
 
