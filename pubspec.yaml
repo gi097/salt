@@ -1,0 +1,16 @@
+name: salt
+description: A crypto library for Flutter.
+version: 0.0.1
+author: Giovanni Terlingen <me@giovanniterlingen.com>
+homepage: https://github.com/gi097/salt
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
