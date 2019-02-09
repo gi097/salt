@@ -23,4 +23,4 @@ echo "Analyzing the extracted Dart libraries."
 
 ../flutter/bin/flutter analyze lib test
 
-../flutter/bin/flutter test --coverage
+../flutter/bin/flutter test --coverage test/salt_test.dart
