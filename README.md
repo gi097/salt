@@ -1,7 +1,7 @@
 # Salt, a crypto library for Flutter
 [![Build Status](https://travis-ci.com/gi097/salt.svg?branch=develop)](https://travis-ci.com/gi097/salt)
 [![Coverage Status](https://coveralls.io/repos/github/gi097/salt/badge.svg?branch=develop&service=github)](https://coveralls.io/github/gi097/salt?branch=develop)
-[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 This is a simple and pure Dart library which adds support for cryptography in Flutter apps without
 having to use native C bindings. The goal for this project is to slowly adopt several crypto
